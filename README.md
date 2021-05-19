@@ -1,7 +1,7 @@
 # Agenda_telefonica
-    #Objetivo
+    # Objetivo
         Armazenar números telefônicos em uma agenda.
-    #Menu
+    # Menu
         Interação com o usuário para realização dos processos abaixo:
             #1. Criar agenda
             #2. Novo contato
@@ -9,7 +9,7 @@
             #4. Atualização de contato
             #5. Exibir lista telefônica
 
-    #Campos
+    # Campos
         #1. Criar agenda
             Cria uma nova agenda com tamanho determinado pelo usuário. No momento da criação da agenda, são inseridos valores igual a 0, tendo em vista que o Java só permite a criação, se o tamanho informado for contemplado com valores inicialmente. Os valores igual a 0 representam espaços vazios que estão disponíveis para registro de novos telefones.
 
