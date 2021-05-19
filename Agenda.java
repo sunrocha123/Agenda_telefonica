@@ -45,7 +45,6 @@ public class Agenda {
         for(int i = 0; i <= telefones.length; i++){
             if (telefones[i] == this.removerTelefone) {
                 telefones[i] = 0;
-                System.out.print("Removido!");
                 return 1;
             }
         }

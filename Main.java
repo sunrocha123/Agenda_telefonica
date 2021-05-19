@@ -31,7 +31,7 @@ public class Main {
                         long formatoCorreto = Long.parseLong(numeroExcluido);
                         a.setRemoverTelefone(formatoCorreto);
                         if (a.removerTelefoneLista() == 1) {
-                            System.out.print("Telefone removido com sucesso na agenda!\n");
+                            System.out.print("Telefone removido com sucesso da agenda!\n");
                             System.out.print("Telefone removido: " + a.getRemoverTelefone());
                         } else{
                             System.out.print("Telefone não localizado na agenda!");
